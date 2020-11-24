@@ -1,0 +1,56 @@
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.exe
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.pdb
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.exe
+c:\users\acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.Form1.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.usermanager.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.utama.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.dataBarang.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.DataPelanggan.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.transaksi.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.cariPembeli.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.cariBarang.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.laporan.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\Interop.LCC11.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\Interop.VBIDE.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csproj.ResolveComReference.cache
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.exe.config
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csproj.ResolveComReference.cache
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.exe
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.pdb
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csprojResolveAssemblyReference.cache
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.cariBarang.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.cariPembeli.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.dataBarang.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.DataPelanggan.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.Form1.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.laporan.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.Properties.Resources.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.transaksi.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.usermanager.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.utama.resources
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\obj\Debug\DuaPutri.csproj.GenerateResource.Cache
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.exe
+C:\Users\irfan\Documents\Visual Studio 2015\Projects\DuaPutri\bin\Debug\DuaPutri.pdb
+E:\C# Project\DuaPutri\bin\Debug\DuaPutri.exe.config
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.csproj.ResolveComReference.cache
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.exe
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.pdb
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.csprojResolveAssemblyReference.cache
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.cariBarang.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.cariPembeli.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.dataBarang.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.DataPelanggan.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.Form1.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.laporan.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.Properties.Resources.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.transaksi.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.usermanager.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.utama.resources
+E:\C# Project\DuaPutri\obj\Debug\DuaPutri.csproj.GenerateResource.Cache
+E:\C# Project\DuaPutri\bin\Debug\DuaPutri.exe
+E:\C# Project\DuaPutri\bin\Debug\DuaPutri.pdb
